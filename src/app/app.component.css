@@ -2,4 +2,9 @@
     display: flex;
     padding: 10px;
     justify-content: space-evenly;
+    background-color: rgb(216, 228, 240);
+}
+
+#titles{
+    background-color: powderblue;
 }
